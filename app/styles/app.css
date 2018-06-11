@@ -1,3 +1,13 @@
 .top_spacing {
 	margin-top:5%;
 }
+
+.right {
+	float: right;
+}
+
+.questions{
+	margin-top:30px;
+	font-family: Courier;
+	font-size: 16px;
+}
